@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 🤝 I’m looking for help with **iOS**
+- 💬 Ask me about **iOS**
 
 - 📫 How to reach me **zhakasov.bm2003@gmail.com**
 
