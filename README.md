@@ -30,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhakasov-bm&show_icons=true&locale=en" alt="zhakasov-bm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhakasov-bm&" alt="zhakasov-bm" /></p>
+
+<!-- ===========================================       Snake       ========================================================= -->
+
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+<h3 align="center">Thank you so much for coming here :pray:</h3>
