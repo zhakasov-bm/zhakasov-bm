@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CheckMate**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 💬 Ask me about **iOS**
 
