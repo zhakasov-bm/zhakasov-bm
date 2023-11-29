@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhakasov-bm&label=Profile%20views&color=0e75b6&style=flat" alt="zhakasov-bm" /> </p>
 
-- 🔭 I’m currently working on **CheckMate**
+- 🔭 I’m currently working on **HalalDetect**
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Adobe Photoshop**
 
-- 💬 Ask me about **iOS**
+- 💬 Ask me about **UX/UI Design**
 
 - 📫 How to reach me **zhakasov.bm2003@gmail.com**
 
